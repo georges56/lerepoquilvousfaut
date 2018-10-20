@@ -1,0 +1,7 @@
+{
+  "name": "beer-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
