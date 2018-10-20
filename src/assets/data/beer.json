@@ -1,0 +1,17 @@
+{
+  "beers": [
+    {
+      "id": 1,
+      "name": "Surfine",
+      "brewery": "Dubuisson",
+      "country": "Belgique",
+      "image_name": "surfine_dubuisson",
+      "image_extension": "jpg",
+      "rating": "8.5",
+      "style": "Belgian Triple Saison"
+    },
+    {
+
+    }
+  ]
+}
